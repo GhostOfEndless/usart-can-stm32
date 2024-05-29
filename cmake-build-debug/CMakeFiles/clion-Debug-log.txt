@@ -1,0 +1,5 @@
+C:\Users\Aleksey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.9161.40\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Aleksey/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\Aleksey\CLionProjects\usart -B C:\Users\Aleksey\CLionProjects\usart\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Aleksey/CLionProjects/usart/cmake-build-debug
